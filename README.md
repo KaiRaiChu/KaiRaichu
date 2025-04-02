@@ -3,7 +3,7 @@
 ✮ Computer Science student at York.<br/>
 ♡ Fascinated by cybersecurity.<br/>
 ◓ Create small projects to learn different languages.<br/> 
-✿ I write blogs about my code and courses [here!](kairaichu.com)<br/>
+✿ I write blogs about my code and courses [here!](https://kairaichu.com/)<br/>
 
 
 # 💻 Tech Stack:
